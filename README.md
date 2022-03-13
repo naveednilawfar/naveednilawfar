@@ -11,7 +11,7 @@
 WHO AM I
 ============
 
-I'm Naveed, a student in Victoria, Australia and a Programmer.
+I'm Naveed, a student in Victoria, Australia.
 
 ## STATUS
 <img align="left" alt="Naveed's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=naveednilawfar&show_icons=true&hide_border=true&theme=dracula">
