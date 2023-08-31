@@ -6,7 +6,8 @@
 WHO AM I
 ============
 
-Hey there! I'm Naveed Nilawfar, often found immersed in lines of Python code, exploring the art of web development, and occasionally dabbling in the world of ethical hacking. My passion for coding and curiosity drives me to explore the depths of technology. When I'm not behind a screen, you might catch me in intense gaming sessions, where I unleash my competitive spirit.
+👋 Hey there! I'm Naveed Nilawfar, a passionate Python coder with a knack for web development and a curiosity for ethical hacking. When I'm not crafting code, I'm exploring the world of technology and diving into intense gaming sessions. Join me on my journey of continuous learning and innovation. Let's connect and collaborate on exciting projects!
+
 
 
 [![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/naveednilawfar)
