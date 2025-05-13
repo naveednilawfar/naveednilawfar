@@ -6,7 +6,7 @@
 WHO AM I
 ============
 
-👋 Hey there! I'm Naveed Nilawfar, currently doing some remodeling with my check back after a while ig.
+👋 Hey there! I'm Naveed Nilawfar, currently doing some remodeling with my self, check back after a while ig.
 
 
 
